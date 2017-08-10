@@ -2,7 +2,7 @@
 #include <WiFiUdp.h>
 
 char ssid[] = "7SPOT";
-// char pass[] = "misakamikoto";
+char pass[] = "";
 unsigned int localPort = 2390;
 int hour, min, sec;
 
